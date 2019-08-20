@@ -6,4 +6,5 @@
 * denismakogon/gocv-alpine
 
 ## more details:
-https://gocv.io
+* https://gocv.io
+* https://hub.docker.com/r/eisson/docker-gocv
